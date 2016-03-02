@@ -1,3 +1,7 @@
-# ALE21-Kernel
-Use ARCH=arm64 make hisi_hi6210sft_defconfig
-ARCH=arm64 CROSS_COMPILE={Your aarch64 toolchain} make -j6
+# android_ALE-L21_kernel
+Kernel source of the Kirin P8 Lite
+
+How to build the kernel:
+
+Run ./build_ale21
+
