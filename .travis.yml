@@ -1,0 +1,5 @@
+os: linux
+language: c
+compiler: gcc
+script:
+- ./build_ale21.sh
